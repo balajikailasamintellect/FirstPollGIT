@@ -2,6 +2,6 @@ class Hello
 {
    public static void main(str arg[])
    {
-     System.out.println("Sri Muni Thunai ****");
+     System.out.println("*****Sri Muni Thunai ****");
    }
 }
